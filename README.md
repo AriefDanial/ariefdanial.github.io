@@ -3,6 +3,7 @@ https://ariefdanial.github.io
 https://github.com/AriefDanial
 https://www.linkedin.com/in/ariefdanialismail
 A modern, interactive portfolio showcasing my work as a Developer & Creative Technologist.
+
 ✨ Features
 Interactive Particle Network - Animated background that responds to mouse movement
 Cyberpunk Aesthetic - Electric cyan and deep purple color scheme
@@ -23,5 +24,6 @@ Email: arief_danial@outlook.com
 Phone: +60 17-625 0038
 LinkedIn: linkedin.com/in/ariefdanialismail
 GitHub: github.com/AriefDanial
+
 📝 License
 This project is open source and available under the MIT License.
